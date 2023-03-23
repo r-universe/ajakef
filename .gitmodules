@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gemlog"]
+	path = gemlog
+	url = https://github.com/cran/gemlog
+	shallow = true
+	registered = true
+[submodule "infraFDTD.assist"]
+	path = infraFDTD.assist
+	url = https://github.com/cran/infraFDTD.assist
+	shallow = true
+	registered = true
+[submodule "rTephra"]
+	path = rTephra
+	url = https://github.com/cran/rTephra
+	shallow = true
+	registered = true
